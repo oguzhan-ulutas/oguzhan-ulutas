@@ -10,7 +10,7 @@ I am about to finish [The Odin Project](https://www.theodinproject.com) full sta
 
 - 👨‍💻 All of my projects are available at [https://github.com/oguzhan-ulutas](https://github.com/oguzhan-ulutas)
 
-- 📫 How to reach me **mkoulutas@gmail.com**
+- 📫 How to reach me **mkoulutas [at] gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,4 +34,5 @@ I am about to finish [The Odin Project](https://www.theodinproject.com) full sta
   <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p> 
   <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhan-ulutas&show_icons=true&locale=en" alt="oguzhan-ulutas" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhan-ulutas&" alt="oguzhan-ulutas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhan-ulutas&" alt="oguzhan-ulutas" /></p>
