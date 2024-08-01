@@ -6,9 +6,6 @@ I am a self-taught developer.
 I finished [The Odin Project](https://www.theodinproject.com) full stack curriculum. I am fascinated as I learn how the internet works. My aim is continue to learn more.
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhan-ulutas" alt="oguzhan-ulutas" /></a> </p>
-
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/oguzhan-ulutas-56692381/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oguzhan-ulutas-56692381/" height="30" width="40" /></a>
