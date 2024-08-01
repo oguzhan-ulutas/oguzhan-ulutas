@@ -4,7 +4,6 @@
 I am a self-taught developer.
 
 I finished [The Odin Project](https://www.theodinproject.com) full stack curriculum. I am fascinated as I learn how the internet works. My aim is continue to learn more.
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
